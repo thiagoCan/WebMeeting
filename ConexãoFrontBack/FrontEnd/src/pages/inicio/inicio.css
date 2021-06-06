@@ -1,0 +1,26 @@
+.grid {
+    background-color: #212121;
+    color: aqua;
+}
+
+.frame {
+    background-color: purple;
+    color: white;
+    height: 500px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: tomato;
+}
+
+a:hover {
+    background-color: teal;
+}
+
+hr {
+    width: 75%;
+}

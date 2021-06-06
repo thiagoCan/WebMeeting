@@ -1,0 +1,46 @@
+
+
+.datagrid {
+    height: 600px;
+}
+
+.btnExcluir {
+    background-color: red;
+    color: green;
+}
+
+.btnExibir {
+    background-color: green;
+    color: white;
+}
+
+.btnEditar {
+    background-color: blue;
+    color: white;
+}
+
+.btnAdcionar {
+    background-color: blue;
+    color: white;
+    height: 60%;
+    width: 30%;
+    font-size: large;
+    margin-top: 2%;
+    margin-right: 15%;
+}
+
+.btnAdcionar:hover {
+    background-color: blueviolet;
+}
+
+.btnEditar:hover {
+    background-color: blueviolet;
+}
+
+.btnExibir:hover {
+    background-color: blueviolet;
+}
+
+.btnExcluir:hover {
+    background-color: blueviolet;
+}

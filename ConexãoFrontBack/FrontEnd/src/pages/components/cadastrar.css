@@ -1,0 +1,23 @@
+.divForm {
+    background-color: brown;
+    width: 100%;
+    margin-top: 16%;
+
+}
+
+.inputForm {
+    color: #fff;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 130px;
+}
+
+.buttonForm {
+    background-color: green;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+    font-size: 12px;
+    font-family: Cascadia Code PL;
+}
